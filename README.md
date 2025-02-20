@@ -9,7 +9,7 @@ Any idea in your head? let's collab. and build together!
 ```
 
   <a href="https://gokensei.me" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-genichiashi.me-informational?style=flat&logo=google-chrome&logoColor=white&color=orange" alt="Portfolio Badge"/>
+    <img src="https://img.shields.io/badge/Portfolio-gokensei.me-informational?style=flat&logo=google-chrome&logoColor=white&color=orange" alt="Portfolio Badge"/>
   </a>
 
 
