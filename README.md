@@ -8,7 +8,7 @@ I love turning ideas into products and am into hackathons these days.
 Any idea in your head? let's collab. and build together!
 ```
 
-  <a href="https://genichihashi.me" target="_blank">
+  <a href="https://gokensei.me" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-genichiashi.me-informational?style=flat&logo=google-chrome&logoColor=white&color=orange" alt="Portfolio Badge"/>
   </a>
 
@@ -39,13 +39,10 @@ Any idea in your head? let's collab. and build together!
 ## Connect with Me 🤝
 
 <p>
-  <a href="mailto:ichihashigen@gmail.com" target="_blank">
+  <a href="mailto:k45wu@uwaterloo.ca" target="_blank">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/gen-ichihashi" target="_blank">
+  <a href="https://linkedin.com/in/gen-ichihashi](https://www.linkedin.com/in/kenny-wu-79a975293/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://facebook.com/ichihashigen" target="_blank">
-    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </p> 
