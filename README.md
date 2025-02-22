@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=18gen)
 
-<h1>Hey, I'm Kenny! :) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
+<h1>Hey, I'm Kenny! :) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26"></h1>
 
 ```
 I'm a 2B Computational Mathematics & Statistics student @ University of Waterloo.
@@ -30,10 +30,7 @@ Any idea in your head? let's collab. and build together!
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <!-- Node.js -->
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white" />
-  <!-- Figma -->
-  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <!-- Blender -->
-  <img alt="Blender" src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
+
 </p>
 
 ## Connect with Me 🤝
