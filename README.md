@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=18gen)
 
-<h1>Hey, I'm Kenny! :) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26"></h1>
+<h1>Hey, I'm Kenny! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
 ```
 I'm a 2B Computational Mathematics & Statistics student @ University of Waterloo. 
@@ -11,7 +11,7 @@ I'm a 2B Computational Mathematics & Statistics student @ University of Waterloo
   </a>
 
 
-## Tech & Tools 🛠
+## Tech & Tools 💻
 
 <p>
   <!-- C++ -->
@@ -28,10 +28,14 @@ I'm a 2B Computational Mathematics & Statistics student @ University of Waterloo
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <!-- Node.js -->
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white" />
+  <!-- Java -->
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <!-- GraphQL -->
+  <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
 
 </p>
 
-## Connect with Me 🤝
+## Connect with Me 🙋‍♂️
 
 <p>
   <a href="mailto:k45wu@uwaterloo.ca" target="_blank">
