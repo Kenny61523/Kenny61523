@@ -3,7 +3,7 @@
 <h1>Hey, I'm Kenny! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
 ```
-I'm a 2B Computational Mathematics & Statistics student @ University of Waterloo. 
+I'm a 3A Computational Mathematics student @ University of Waterloo. 
 ```
 
   <a href="https://gokensei.me" target="_blank">
